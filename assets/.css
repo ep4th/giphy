@@ -1,0 +1,40 @@
+body {
+    
+    background-color: #F85B1A;
+}
+.container {
+    background-color: #F85B1A;
+}
+
+
+.jumbotron {
+    background-color: black;
+}
+.jumbotron {
+    background-color: #F85B1A;
+}
+.btn {
+    color: #F85B1A;
+    background-color: #072083;
+    
+}
+.btn:hover {
+    background: #000000;
+}
+h1 {
+    text-align: center;
+    font-size: 64px;
+    background-color: #072083;
+    color: #F85B1A;
+}
+
+h2 {
+    font-size: 32px;
+    color: #072083;
+}
+label {
+    font-size: 16px;
+    color: #072083;
+    
+}
+
